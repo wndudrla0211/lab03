@@ -14,10 +14,10 @@ void getChoices(float& A, float& B) {
 	// The rest of this function is an exercise to the reader
 }
 void firstChoice(float A, float B) {
-	cout << "This is proving the first choice ran" << endl;
+	cout << A << " + " << B << " = " << A + B << endl;
 }
 void secondChoice(float A, float B) {
-	cout << "This is proving the second choice ran" << endl;
+	cout << 
 }
 int main() {
 	int choice;
